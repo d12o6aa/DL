@@ -5,7 +5,7 @@ Deep learning experiments for face analysis tasks (verification, recognition, an
 
 
 
-# 🏗️ VGG19 Transfer Learning for Celebrity Classification
+# 🏗️ VGG19 Transfer Learning for Face Classification
 
 This documentation outlines the process of adapting the pre-trained VGG19 model for our specific image classification task (31 classes of famous personalities) using Transfer Learning.
 
